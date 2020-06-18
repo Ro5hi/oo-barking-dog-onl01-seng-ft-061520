@@ -9,7 +9,7 @@ class Dog
 end
   end
 
-Class Dog 
+class Dog 
   fido.bark
   puts "woof!"
 end 
