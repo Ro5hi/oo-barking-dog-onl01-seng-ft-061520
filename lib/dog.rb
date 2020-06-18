@@ -10,5 +10,5 @@ end
   end
 
 class Dog 
-  fido.bark
+  def bark
 puts "woof!"
