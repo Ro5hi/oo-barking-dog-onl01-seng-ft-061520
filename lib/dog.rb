@@ -12,7 +12,3 @@ end
 fido = Dog.new
 fido.name = "Fido"
 
-end 
-
-fido.bark
-woof!
