@@ -11,7 +11,9 @@ end
  
 fido = Dog.new
 fido.name = "Fido"
+
 require 'pry'
+
 fido.bark
 puts "woof!"
 binding.pry 
