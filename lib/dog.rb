@@ -1,8 +1,8 @@
-flank = Dog.new 
-flank.name = "Flank"
+fido = Dog.new 
+fido.name = "Fido"
 
-flank.name
-# => "Flank"
+fido.name
+# => "Fido"
 
-flank.bark
+fido.bark
 woof!
