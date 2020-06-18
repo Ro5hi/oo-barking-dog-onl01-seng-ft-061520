@@ -17,4 +17,3 @@ fido.bark
 puts "woof!"
 
 binding.pry 
-end 
